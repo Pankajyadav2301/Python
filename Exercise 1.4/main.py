@@ -7,8 +7,9 @@ y = input("Input 2nd number: ")
 
 # Write your Code here below this line 
 
-
-
+z = x
+x = y
+y = z
 
 
 
